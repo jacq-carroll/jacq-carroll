@@ -36,7 +36,7 @@ Repository:
  
 ## Contact  
 **Email:** jacq@udel.edu  
-**Linkedin:** https://www.linkedin.com/in/jacqueline-carroll-/  
-**GitHub:** github.com/jacq-carroll  
+**Linkedin:** linkedin.com/in/jacqueline-carroll-/  
+**GitHub:** github.com/jacq-carroll/
 
-Feel free to reach out to discuss anything related to environmental health, contaminant data or bioinformatics! 
+Feel free to reach out to discuss anything related to environmental health, contaminants or bioinformatics! 
