@@ -35,8 +35,8 @@ Repository:
 - Risk communication & science policy interests
  
 ## Contact  
-**Email:** jacq@udel.edu  
-**Linkedin:** linkedin.com/in/jacqueline-carroll-/  
-**GitHub:** github.com/jacq-carroll/
+**Email:** [Email](jacq@udel.edu)   
+**Linkedin:** [Linkedin](https://www.linkedin.com/in/jacqueline-carroll-/)   
+**GitHub:** [GitHub](https://github.com/jacq-carroll)  
 
 Feel free to reach out to discuss anything related to environmental health, contaminants or bioinformatics! 
