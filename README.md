@@ -1,4 +1,4 @@
-## Jacqueline Carroll -- Bioinformatics Data Scientist | Environmental Toxicology | Marine Microbiome Research 🦪🌊💻🧬🧪
+## Jacqueline Carroll -- Bioinformatics Data Scientist | Environmental Toxicology | Marine Microbiome Research 🦪 🌊 💻 🧬 🧪
 
 Welcome to my GitHub portfolio! I am a graduate student researcher focused on  bioinformatics data science and environmental toxicology. I am interested in how contaminants move through ecosystems and affect human health. My current research focuses on human and marine exposure to Per- & Polyfluoroalkyl Substances (PFAS), microbiome modeling, transcriptomics and survey-based exposure assessment. 
 
